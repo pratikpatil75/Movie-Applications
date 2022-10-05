@@ -8,7 +8,7 @@ function App() {
       <Router>
         <Routes>
           <Route index element={<h1>Home Page</h1>}></Route>
-          <Route path='movies/:id' element={<h1>Movie Detail Page</h1>}></Route>
+          <Route path='movie/:id' element={<h1>Movie Detail Page</h1>}></Route>
           <Route path='movies/:type' element={<h1>Movie List Page</h1>}></Route>
           <Route path='/*' element={<h1>Error Page</h1>}></Route>
         </Routes>
