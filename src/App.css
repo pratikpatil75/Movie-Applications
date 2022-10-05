@@ -3,3 +3,10 @@
   color: white;
   font-family: sans-serif;
 }
+
+footer {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.388);
+  padding: 2rem 2rem;
+  box-shadow: .7rem .7rem 1rem .5rem rgba(0, 0, 0, 0.238);
+}
