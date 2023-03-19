@@ -1,4 +1,4 @@
-Deployed Link -  https://pranoy-chandra-movie-app.netlify.app/
+Deployed Link - 
 
 About the Project
 
